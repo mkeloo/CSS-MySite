@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    /*font-family: "Helvetica Neue", fantasy, sans-serif;*/
+}
+.DSprofile {
+    height: 350px;
+    border-radius: 100%;
+    margin-top: 50px;
+}
+.computers {
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 50px;
+}
+.chillies {
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+    margin-right: 50px;
+    /*margin-bottom: 30px;*/
+}
+
+/*.code-skill-description {*/
+/*    clear: left;*/
+/*}*/
+
+h1 {
+    margin: 50px auto 0 auto;
+    /*margin: 0 auto 0 auto;*/
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color: #66BFBF;
+    /*line-height: 2;*/
+    /*font-size: 5.625rem; => root em;  16px = 1em = 100%*/
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+    /*padding-bottom: 10px;*/
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #11999E;
+    font-weight: bold;
+}
+
+a {
+    color: #11999E;
+}
+#trademark {
+    color: #11999E;
+    font-size: 0.75rem;
+}
+
+.topContainer {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.profile {
+    padding: 20px;
+}
+
+.middle-container {
+    background-color: #F7ECDE;
+    padding-bottom: 50px;
+}
+
+.bottom-container {
+    padding: 50px 0 20px;
+    background-color: lightcyan;
+    line-height: 3;
+}
+.footer-link {
+    text-decoration: none;
+    padding: 30px;
+    font-size: 19px;
+}
+.footer-link:hover {
+    color: darkblue;
+    padding: 30px;
+    font-size: 19px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 110px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.profileDescription {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    line-height: 2;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.lower-text {
+    margin: 40px auto 60px;
+    width: 40%;
+}
+
+.btn {
+    border-radius: 8px;
+    background-image: linear-gradient(#11cdd4, #11999e);
+    color: #ffffff;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.btn:hover {
+    background-image: linear-gradient(#30e3cb, #2bc4ad);
+}
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+    width: 75%;
+    margin: 100px auto;
+    /*padding-top: 10px;*/
+}
